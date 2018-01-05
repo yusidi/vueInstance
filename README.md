@@ -1,7 +1,12 @@
 # demo
 
-> A Vue.js project
+> Vue实例小demo
+```
+有兴趣的话下下来自己搞一搞
 
+注释会在后续加上
+
+```
 ## Build Setup
 
 ``` bash
